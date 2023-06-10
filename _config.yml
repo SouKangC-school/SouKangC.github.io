@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Jinshi He"
   avatar           : "profile.png"
-  bio              : "Research scientist at Test University, expert in all things test and account related"
-  location         : "Test, California"
+  bio              : "A second-year computer engineering student at UCSD"
+  location         : "San Diego, California"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -93,26 +93,26 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/profile.php?id=100014660144636"
   foursquare       :
-  github           : "SouKangC-school"
-  google_plus      :
-  keybase          :
+  github           : "https://github.com/SouKangC-school"
+  google_plus      : 
+  keybase          : 
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/bill-he-5ba802211/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : 
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCn9O5A1sMnrFnXdUFIrEUsg"
   wikipedia        :
 
 
