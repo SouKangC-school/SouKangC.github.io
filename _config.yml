@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Jinshi He"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research scientist at Test University, expert in all things test and account related"
+  location         : "Test, California"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "SouKangC-school"
   google_plus      :
   keybase          :
   instagram        :
