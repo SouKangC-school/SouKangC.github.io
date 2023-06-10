@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinshi's personal website
+title                    : "Jinshi's personal website"
 name                     : &name "Jinshi He"
 description              : &description "UCSD computer engineering student"
 url                      : https://soukangc-school.github.io/SouKangC.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
